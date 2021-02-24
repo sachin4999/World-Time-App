@@ -1,6 +1,6 @@
 # World Time App
 
-A new Flutter application.
+A Flutter application that displays the time and the name of the selected location. 
 
 ## Getting Started
 
